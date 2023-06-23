@@ -1,0 +1,25 @@
+Domain,Lipid,Median_Count,Scaled_Median_Count
+Chain A Transmembrane Top,CDL2,32.0,6.4
+Chain A Transmembrane Top,POPE,41.0,8.2
+Chain A Transmembrane Top,POPG,22.0,4.4
+Chain B Transmembrane Top,CDL2,33.0,6.6
+Chain B Transmembrane Top,POPE,45.0,9.0
+Chain B Transmembrane Top,POPG,19.0,3.8
+Chain A PEP Domain,CDL2,75.0,12.5
+Chain A PEP Domain,POPE,42.0,7.0
+Chain A PEP Domain,POPG,10.0,1.7
+Chain B PEP Domain,CDL2,55.0,9.2
+Chain B PEP Domain,POPE,49.0,8.2
+Chain B PEP Domain,POPG,26.0,4.3
+Chain A Transmembrane Arm,CDL2,26.0,8.7
+Chain A Transmembrane Arm,POPE,23.0,7.7
+Chain A Transmembrane Arm,POPG,13.0,4.3
+Chain B Transmembrane Arm,CDL2,28.5,9.5
+Chain B Transmembrane Arm,POPE,25.0,8.3
+Chain B Transmembrane Arm,POPG,7.0,2.3
+Chain A Substrate Entrance Channel,CDL2,31.5,7.9
+Chain A Substrate Entrance Channel,POPE,24.0,6.0
+Chain A Substrate Entrance Channel,POPG,0.0,0.0
+Chain B Substrate Entrance Channel,CDL2,10.0,2.5
+Chain B Substrate Entrance Channel,POPE,33.0,8.2
+Chain B Substrate Entrance Channel,POPG,18.0,4.5
